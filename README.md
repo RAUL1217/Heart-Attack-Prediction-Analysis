@@ -3,20 +3,6 @@
 ## Why this problem : 
 
 
-# Solution :
-* Data Collection and Understanding
-* Data Balancing
-* Feature and Target
-* Data Splitting
-* Applying models
-
-# Models
-## We will use the following models :
-* Logistic Regression
-* Decision Tree Classifier
-* Random Forest Classifier
-* AdaBoostClassifier
-* GradientBoostingClassifier
 
 ## Data Content
 * Age: Age of the patient.
@@ -37,3 +23,20 @@
 * Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria.
 * thalach: maximum heart rate achieved.
 * target: 0= less chance of heart attack 1= more chance of heart attack.
+
+# Solution :
+* Data Collection and Understanding
+* Data Balancing
+* Feature and Target
+* Data Splitting
+* Applying models
+
+# Models
+## We will use the following models :
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
+* AdaBoostClassifier
+* GradientBoostingClassifier
+
+
