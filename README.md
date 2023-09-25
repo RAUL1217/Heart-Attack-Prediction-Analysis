@@ -2,6 +2,22 @@
 ## Problem Statement : Heart Attack Prediction
 ## Why this problem : 
 
+
+## Solution :
+1. Data Collection and Understanding 
+2. Data Balancing
+3. Feature and Target
+4. Data Splitting
+5. Applying models
+
+## Models
+* we will use the following models :
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+4. AdaBoostClassifier
+5. GradientBoostingClassifier
+
 ## Data Content
 * Age: Age of the patient.
 * Sex: Sex of the patient.
