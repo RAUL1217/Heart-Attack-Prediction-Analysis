@@ -1,4 +1,4 @@
-# Heart-Attack-Prediction-Analysis
+# Heart-Attack-Analysis-Prediction
 ## Data Content
 * Age: Age of the patient.
 * Sex: Sex of the patient.
