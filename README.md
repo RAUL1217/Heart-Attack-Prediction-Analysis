@@ -3,20 +3,20 @@
 ## Why this problem : 
 
 
-## Solution :
-1. Data Collection and Understanding 
-2. Data Balancing
-3. Feature and Target
-4. Data Splitting
-5. Applying models
+# Solution :
+* Data Collection and Understanding
+* Data Balancing
+* Feature and Target
+* Data Splitting
+* Applying models
 
-## Models
-* we will use the following models :
-1. Logistic Regression
-2. Decision Tree Classifier
-3. Random Forest Classifier
-4. AdaBoostClassifier
-5. GradientBoostingClassifier
+# Models
+## we will use the following models :
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
+* AdaBoostClassifier
+* GradientBoostingClassifier
 
 ## Data Content
 * Age: Age of the patient.
