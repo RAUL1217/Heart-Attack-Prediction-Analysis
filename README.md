@@ -32,7 +32,7 @@
 * Applying models
 
 # Models
-## We will use the following models :
+### We will use the following models :
 * Logistic Regression
 * Decision Tree Classifier
 * Random Forest Classifier
