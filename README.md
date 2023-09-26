@@ -1,11 +1,11 @@
 # Heart-Attack-Analysis-Prediction
 
-## Problem Statement : Heart Attack Analysis  
+# Problem Statement : Heart Attack Analysis  
 
-## Why this problem : 
+# Why this problem : 
    A heart attack increases the risk of this life-threatening condition. It can lead to death without immediate treatment. By using data and machine learning, we can avoid the risk of heart attack and reduce the number of deaths from heart attack.
  
-## Data Content
+# Data Content
 * Age: Age of the patient.
 * Sex: Sex of the patient.
 * exang: exercise induced angina (1 = yes; 0 = no).
@@ -25,7 +25,7 @@
 * thalach: maximum heart rate achieved.
 * output: 0 = less chance of heart attack 1 = more chance of heart attack.
 
-## Solution :
+# Solution :
 * Data Collection and Understanding
 * EDA
 * Data Cleaning
@@ -33,7 +33,7 @@
 * Feature Engineering
 * Applying the model
 
-## EDA
+# EDA
 ### Pairplot
   ![Screenshot 2023-09-26 111827](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/b0e3c818-be46-41df-98c7-5666c89774d2)
   
@@ -95,7 +95,7 @@
 
 
 
-## Models
+# Models
 ### We used the following models :
 * Logistic Regression
 * Decision Tree Classifier
@@ -104,7 +104,7 @@
 * Gradient Boosting Classifier
 * SVC
 
-## Accuracy
+# Accuracy
 * Logistic Regression
 ![Screenshot 2023-09-26 113321](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/72ecd2f2-717e-4c40-9ab8-e62e034f098e)
 
