@@ -1,10 +1,10 @@
 # Heart-Attack-Analysis-Prediction
-## Problem Statement : Heart Attack Prediction
-## Why this problem : 
+# Problem Statement : Heart Attack Prediction
+# Why this problem : 
 
 
 
-## Data Content
+# Data Content
 * Age: Age of the patient.
 * Sex: Sex of the patient.
 * exang: exercise induced angina (1 = yes; 0 = no).
