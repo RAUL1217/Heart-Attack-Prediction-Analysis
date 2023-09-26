@@ -26,7 +26,9 @@
 
 ## Solution :
 * Data Collection and Understanding
+* EDA
 * Data Balancing
+* Outliers Removing
 * Feature and Target
 * Data Splitting
 * Applying models
