@@ -38,5 +38,6 @@
 * Random Forest Classifier
 * AdaBoostClassifier
 * GradientBoostingClassifier
+* SVC
 
 
