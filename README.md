@@ -30,7 +30,7 @@
 * EDA
 * Data Cleaning
 * Preprocessing
-* Feature Engineering
+* Feature Engineering 
 * Applying the model
 
 # EDA
