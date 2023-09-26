@@ -1,6 +1,9 @@
 # Heart-Attack-Analysis-Prediction
-## Problem Statement : Heart Attack Prediction
+
+## Problem Statement : Heart Attack 
+
 ## Why this problem : 
+   A heart attack increases the risk of this life-threatening condition. It can lead to death (sudden cardiac death) without immediate treatment.
 
 
  
