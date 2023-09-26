@@ -43,7 +43,7 @@
   
 
 * Countplot
-  ![Screenshot 2023-09-26 115205](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/328f0e29-9e6b-4bc2-b90f-71dbc3806182)
+  ![Screenshot 2023-09-26 115205](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/328f0e29-9e6b-4bc2-b90f-71dbc3806182) 
   ![Screenshot 2023-09-26 112002](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/d09230a1-12e3-4651-a2d1-efb27f6bdf00)
   ![Screenshot 2023-09-26 112032](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/9177e1c5-722b-4062-b85a-e0db7a41a477)
   ![Screenshot 2023-09-26 112052](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/1f2c7cb6-12cd-43b5-9448-c33faec31325)
