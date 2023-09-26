@@ -23,7 +23,7 @@
 * Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV).
 * Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria.
 * thalach: maximum heart rate achieved.
-* target: 0= less chance of heart attack 1= more chance of heart attack.
+* target: 0 = less chance of heart attack 1 = more chance of heart attack.
 
 ## Solution :
 * Data Collection and Understanding
@@ -47,22 +47,22 @@
 * sex
   ![Screenshot 2023-09-26 115205](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/328f0e29-9e6b-4bc2-b90f-71dbc3806182)
 
-* cp
+* Chest Pain type
   ![Screenshot 2023-09-26 112002](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/d09230a1-12e3-4651-a2d1-efb27f6bdf00)
 
-* fbs
+* fasting blood sugar
   ![Screenshot 2023-09-26 112032](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/9177e1c5-722b-4062-b85a-e0db7a41a477)
 
-* restecg
+* resting electrocardiographic results
   ![Screenshot 2023-09-26 112052](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/1f2c7cb6-12cd-43b5-9448-c33faec31325)
 
-* exng
+* exercise induced angina
   ![Screenshot 2023-09-26 112251](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/9ad00b2f-e852-41e5-8e33-d083f6aa8d05)
 
 * slp
   ![Screenshot 2023-09-26 112310](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/36af1440-86e4-46f9-9d80-e03970ad74b6)
 
-* caa
+* number of major vessels
   ![Screenshot 2023-09-26 112331](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/dd8ee790-74ab-4118-9bdf-14033625ebe8)
 
 * thall
@@ -76,13 +76,13 @@
 * age
   ![Screenshot 2023-09-26 112450](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/757dd0bd-85db-4c83-8eb8-42ad05243cba)
 
-* trtbps
+* resting blood pressure
   ![Screenshot 2023-09-26 112508](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/9a5e2562-47ad-4022-afbf-e7fccba2c7c4)
 
-* chol
+* cholestoral
   ![Screenshot 2023-09-26 112526](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/3eab81a7-b2a5-41e1-9ecc-7d2037dd98a9)
 
-* thalachh
+* maximum heart rate achieved
   ![Screenshot 2023-09-26 112547](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/40352507-c6e6-4f6c-a002-8b138dfd2759)
 
 * oldpeak
@@ -90,7 +90,7 @@
 
   
 ### Pie Chart
-* cp
+* Chest Pain type
   ![Screenshot 2023-09-26 112648](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/b55c6bfd-b4e9-4145-bd09-d4410cc7a7e5)
 
 
