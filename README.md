@@ -4,7 +4,6 @@
 
 ## Why this problem : 
    A heart attack increases the risk of this life-threatening condition. It can lead to death without immediate treatment. By using data and machine learning, we can avoid the risk of heart attack and reduce the number of deaths from heart attack.
-
  
 ## Data Content
 * Age: Age of the patient.
