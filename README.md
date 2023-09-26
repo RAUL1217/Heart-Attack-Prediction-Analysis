@@ -38,21 +38,27 @@
 * Logistic Regression
 * Decision Tree Classifier
 * Random Forest Classifier
-* AdaBoostClassifier
-* GradientBoostingClassifier
+* AdaBoost Classifier
+* Gradient Boosting Classifier
 * SVC
 
 ## Accuracy
+* Logistic Regression
 ![Screenshot 2023-09-26 113321](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/72ecd2f2-717e-4c40-9ab8-e62e034f098e)
 
+* Decision Tree Classifier
 ![Screenshot 2023-09-26 113338](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/dc5498b5-39fb-4102-b257-d237d2739a06)
 
+* Random Forest Classifier
 ![Screenshot 2023-09-26 113400](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/ae760401-2c66-4fee-b71d-e634706c12ce)
 
+* AdaBoost Classifier
 ![Screenshot 2023-09-26 113418](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/defb6caa-a9c3-410a-8d8b-77b92a2c5fb3)
 
+* Gradient Boosting Classifier
 ![Screenshot 2023-09-26 113434](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/2363dd47-dc3e-4a03-abea-31814eb5c1f0)
 
+* SVC
 ![Screenshot 2023-09-26 113452](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/aba18ae5-953e-4be3-aecc-f51d5da9a26b)
 
 
