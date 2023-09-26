@@ -39,7 +39,8 @@
   
 
 * Heatmap
-  ![Screenshot 2023-09-26 111827](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/e3accbc7-6c3f-4395-a7bb-0e27583a5509)
+  ![Screenshot 2023-09-26 111856](https://github.com/RAUL1217/Heart-Attack-Prediction-Analysis/assets/142076300/f7f19636-82b0-44b7-b0b6-1e3f821cc14a)
+
   
 
 * Countplot
