@@ -97,7 +97,7 @@
 
 
 ## Models
-### We will use the following models :
+### We used the following models :
 * Logistic Regression
 * Decision Tree Classifier
 * Random Forest Classifier
