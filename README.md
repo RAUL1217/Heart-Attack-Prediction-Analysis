@@ -1,10 +1,10 @@
 # Heart-Attack-Analysis-Prediction
-# Problem Statement : Heart Attack Prediction
-# Why this problem : 
+## Problem Statement : Heart Attack Prediction
+## Why this problem : 
 
 
 
-# Data Content
+## Data Content
 * Age: Age of the patient.
 * Sex: Sex of the patient.
 * exang: exercise induced angina (1 = yes; 0 = no).
@@ -24,14 +24,14 @@
 * thalach: maximum heart rate achieved.
 * target: 0= less chance of heart attack 1= more chance of heart attack.
 
-# Solution :
+## Solution :
 * Data Collection and Understanding
 * Data Balancing
 * Feature and Target
 * Data Splitting
 * Applying models
 
-# Models
+## Models
 ### We will use the following models :
 * Logistic Regression
 * Decision Tree Classifier
